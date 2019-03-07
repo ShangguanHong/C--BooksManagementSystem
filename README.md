@@ -1,1 +1,12 @@
-# C--BooksManagementSystem
+# 			大三上的C#期末大作业
+
+## 介绍
+
+### 1. 数据库使用MySQL
+
+### 2. 采用MVC架构
+
+### 3. 编程语言使用C#
+
+### 4. IDE使用visual stdio 2015
+
